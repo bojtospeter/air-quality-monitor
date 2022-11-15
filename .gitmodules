@@ -1,0 +1,6 @@
+[submodule "BME68x-Sensor-API"]
+	path = BME68x-Sensor-API
+	url = https://github.com/BoschSensortec/BME68x-Sensor-API.git
+[submodule "Bosch-BSEC2-Library"]
+	path = Bosch-BSEC2-Library
+	url = https://github.com/BoschSensortec/Bosch-BSEC2-Library.git
